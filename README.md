@@ -1,4 +1,4 @@
 test
 ====
 
-just playin' around with git
+This is a project for testing out git features.
